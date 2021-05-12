@@ -1,0 +1,1 @@
+def minimun(N,paintcosts):
